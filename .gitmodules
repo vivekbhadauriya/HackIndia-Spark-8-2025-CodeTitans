@@ -1,0 +1,6 @@
+[submodule "CampusCopilot"]
+	path = CampusCopilot
+	url = https://github.com/vivekbhadauriya/CampusCopilot
+[submodule "CampusCopilotBackend"]
+	path = CampusCopilotBackend
+	url = https://github.com/vivekbhadauriya/CampusCopilotBackend
